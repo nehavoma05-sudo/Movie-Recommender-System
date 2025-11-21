@@ -15,7 +15,7 @@ The system recommends similar movies using cosine similarity and displays poster
 
 ##  How It Works
 
-### Data Processing (main.py – Jupyter Notebook)
+### Data Processing (Movie Recommendation system.py – Jupyter Notebook)
 - Used **TMDB 10,000 movies dataset**  
 - Performed **feature engineering**  
 - Combined metadata (overview, genres) into a single **tags** column  
@@ -51,7 +51,7 @@ The system recommends similar movies using cosine similarity and displays poster
 movie-recommender
 
 - app.py                 
-- main.py               
+- Movie Recommendation system.py               
 - movies.pkl            
 - similarity.pkl         
 - config.py              
